@@ -1,0 +1,11 @@
+
+.mainFooter{
+    background-image: url('C:\Users\sathyadev\Desktop\PROJECT\VineeshWebsite\mysite\src\nighthawksbn.png');
+    display: flex;
+    justify-content: space-between;
+    background-size: cover;
+    background-position: center;
+    color:rgba(140, 230, 239, 0.969);
+    border-radius: 25px;
+    padding :0px 30px 0px 30px;
+}

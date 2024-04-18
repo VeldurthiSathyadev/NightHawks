@@ -1,0 +1,56 @@
+.main{
+  margin: 10px;
+  width: -webkit-fill-available;
+  height: 100vh;
+}
+.Nav{
+  padding: 10px;
+  margin: 10px;
+  background-color: black;
+  display: grid;
+  grid-template-columns: 40% 60%;
+  text-decoration: none;
+}
+.Snav{
+  color:rgb(238, 219, 13);
+}
+.Snav2{
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  color: rgb(238, 219, 13);
+  padding-top: 10px;
+}
+.continer1{
+  padding: 30px;
+  padding-top: -30px;
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  justify-content: center;
+  
+}
+.continer1-1,button{
+  text-align: justify;
+
+}
+button{
+  padding:0px 10px 0px 10px;
+  width: auto;
+  height: 30px;
+  font-size: x-large;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: black;
+  color: rgb(238, 219, 13);
+  border: none;
+  border-radius: 220px;
+  
+}
+.continer1-1{
+  height:auto;
+  width:600px;
+}
+.continer1-2 img{
+  height: auto;
+  width: 400px
+  
+}
